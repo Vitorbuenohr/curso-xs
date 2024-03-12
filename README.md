@@ -1,2 +1,3 @@
 # html css
- estudos
+ 
+ Curso de HTML e CSS do Curso em Video
